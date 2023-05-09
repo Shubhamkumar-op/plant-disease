@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+.dropzone-div {
+  text-align: center;
+  padding: 20px;
+  border: 3px purple dashed;
+  width: 60%;
+  margin: auto;
+  cursor: pointer;
+}
