@@ -32,10 +32,10 @@ In this project i have used CNN model. Because it is very efficient in image cla
 
 ## VISUALIZATION
 
-<br>![dataset](https://github.com/Shubhamkumar-op/World-of-AI/blob/main/machine_learning/potato%20Disease/Images/Screenshot%202023-06-03%20173739.png)</br>
-<br>![accuracy](https://github.com/Shubhamkumar-op/World-of-AI/blob/main/machine_learning/potato%20Disease/Images/Screenshot%202023-06-03%20173713.png)</br>
-<br>![prediction](https://github.com/Shubhamkumar-op/World-of-AI/blob/main/machine_learning/potato%20Disease/Images/Screenshot%202023-06-03%20173648.png)</br>
-<br>![multiple prediction](https://github.com/Shubhamkumar-op/World-of-AI/blob/main/machine_learning/potato%20Disease/Images/Screenshot%202023-06-03%20173619.png)</br>
+<br>![dataset](https://github.com/Shubhamkumar-op/plant-disease/blob/master/Images/Screenshot%202023-06-03%20173739.png)</br>
+<br>![accuracy](https://github.com/Shubhamkumar-op/plant-disease/blob/master/Images/Screenshot%202023-06-03%20173713.png)</br>
+<br>![prediction](https://github.com/Shubhamkumar-op/plant-disease/blob/master/Images/Screenshot%202023-06-03%20173648.png)</br>
+<br>![multiple prediction](https://github.com/Shubhamkumar-op/plant-disease/blob/master/Images/Screenshot%202023-06-03%20173619.png)</br>
 
 ## ACCURACIES
 
